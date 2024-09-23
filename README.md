@@ -26,7 +26,7 @@ I'm a software engineer with a love for Game development and Full-stack developm
 ![GitHub trophies](https://github-profile-trophy.vercel.app/?username=MikemathuKE&theme=onedark)
  
 ## 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikemathuKE&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikemathuKE&layout=compact&theme=dark)
  
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-mathu-609672229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
