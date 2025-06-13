@@ -6,7 +6,7 @@ I'm a software engineer with a love for Game development and Full-stack developm
 - 🌱 I’m currently learning Game Development
 - 💬 Ask me about Full-stack development
 - 📫 How to reach me: info@mikemathuke.com
-- ⚡ Fun fact: music, animation and gaming are my passions on top of software development!
+- ⚡ Fun fact: music, animation and video games are my passions on top of software development!
  
 ## 🛠️ Technologies & Tools
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
