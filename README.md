@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MikemathuKE! 
+# 👋 Hi, I'm Michael Mathu! 
  
 ## 🚀 About Me
 I'm a software engineer with a love for Game development and Full-stack development. I enjoy working on exciting projects and exploring new technologies.
